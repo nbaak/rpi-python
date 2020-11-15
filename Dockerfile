@@ -1,3 +1,4 @@
+#!/bin/bash
 FROM raspbian/stretch
 
 RUN apt-get update && \
